@@ -1,0 +1,7 @@
+11/04/2016 
+16:20
+Current directory: C:\microchip\harmony\v1_07_01\apps\x2c\Blinky_Microchip_PIC32MZEF_MEB2\firmware\src\X2CCode 
+Makefile: C:\microchip\harmony\v1_07_01\apps\x2c\Blinky_Microchip_PIC32MZEF_MEB2\firmware\Blinky_Microchip_PIC32MZEF_MEB2.X\Makefile 
+Hexfile: /dist/default/production/Blinky_Microchip_PIC32MZEF_MEB2.X.production.hex 
+Execute make: 
+"C:\Program Files (x86)\Microchip\MPLABX\v3.26\gnuBins\GnuWin32\bin\make" -f C:\microchip\harmony\v1_07_01\apps\x2c\Blinky_Microchip_PIC32MZEF_MEB2\firmware\Blinky_Microchip_PIC32MZEF_MEB2.X\Makefile  
